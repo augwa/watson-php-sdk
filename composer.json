@@ -1,0 +1,7 @@
+{
+    "name": "augwa/watson",
+    "description": "PHP SDK for IBM Watson services",
+    "require": {
+        "php": "^7.1"
+    }
+}
